@@ -92,3 +92,5 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
     <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
   </a>
 </p>
+
+# Teste de autenticação via SSH
