@@ -95,3 +95,4 @@ Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio 
 
 # 1 - Teste de autenticação via SSH
 # 2 - Teste de autenticação via SSH
+# 3 - Teste para criação de Branch e Merge
